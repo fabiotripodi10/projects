@@ -35,7 +35,7 @@ This repository contains a collection of academic projects and my Master's thesi
 ## Master's Thesis
 
 **Title:** *Copula-Gated Pairs Trading: Unsupervised Pairs Selection and Regime-Shift Control with CUSUM*  
-- Developed in collaboration with an external tutor from Barclays.  
+- Developed in collaboration with an external tutor from Barclays Bank.  
 - Focused on a novel Pairs Trading framework applied to the most capitalized NASDAQ companies.  
 - Methodology highlights:
   - Candidate pairs selected using the **OPTICS clustering algorithm** based on price, volatility, financial indicators, and ESG scores.
